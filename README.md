@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**rodriguezc528/rodriguezc528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:penguin: Recent graduate diving into the analytical world through self learning and project creations.
 
-Here are some ideas to get you started:
+:notebook: Currently open for work, and working on side projects revolving around data analytics surrounding healthcare and tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:pencil2: **Current tools/softwares used and experience with:**
+  - SQL/SQlite
+  - Power BI
+  - Excel
+  - Power Query
+  - After Effects
+  - Premier Pro
+
+:link: Reachable through LinkedIn or Handshake in Bio 
